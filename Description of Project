@@ -1,0 +1,100 @@
+💍 VivahSetu – Wedding Planning & Vendor Management Platform
+
+A secure and scalable Wedding Planning Management System built using Spring Boot, Spring Cloud, Microservices Architecture, Spring Data JPA, MySQL, Eureka Service Discovery, API Gateway, and JWT Authentication. The platform helps couples efficiently plan weddings, manage budgets, track tasks, book vendors, and manage wedding-related services through independent microservices.
+
+🚀 Features
+
+1. User Registration and Login with JWT Authentication
+2. Microservices-Based Architecture
+3. API Gateway for Centralized Routing
+4. Eureka Service Discovery for Service Registration
+5. Wedding Planning and Management
+6. Vendor Registration and Approval System
+7. Vendor Search by City and Category
+8. Wedding Budget Tracking and Expense Management
+9. Wedding Task Creation and Completion Tracking
+10. Booking Management and Confirmation
+11. Dashboard for Wedding Planning Insights
+12. RESTful APIs with Layered Architecture
+13. Exception Handling and Data Validation
+
+🛠️ Tech Stack
+
+1. Java 17
+2. Spring Boot 3
+3. Spring Cloud
+4. Spring Data JPA (Hibernate)
+5. Spring Security
+6. JWT Authentication
+7. Eureka Server
+8. API Gateway
+9. MySQL Database
+10. Maven
+
+📌 Microservices
+
+1. Auth Service
+
+* User Registration
+* User Login
+* JWT Token Generation
+* Authentication Management
+
+2. Wedding Service
+
+* Couple Profile Management
+* Wedding Budget Management
+* Expense Tracking
+* Task Management
+* Dashboard Analytics
+
+3. Vendor Service
+
+* Vendor Registration
+* Vendor Approval Workflow
+* Vendor Search by Category and Location
+* Vendor Management
+
+4. Booking Service
+
+* Vendor Booking Management
+* Booking Confirmation
+* Booking Statistics
+
+5. Eureka Server
+
+* Service Discovery and Registration
+
+6. API Gateway
+
+* Centralized Request Routing
+* Service Communication Management
+
+🔒 Security
+
+1. JWT-based Authentication
+2. Secure User Login and Registration
+3. Protected Service Endpoints
+4. Role-Based Access Ready Architecture
+
+📖 System Highlights
+
+1. Distributed Microservices Architecture
+2. Independent Service Deployment
+3. Service Discovery using Eureka
+4. Centralized API Gateway
+5. Scalable and Maintainable Design
+6. Real-Time Wedding Planning Management
+
+🎯 Learning Outcomes
+
+1. Microservices Development with Spring Boot
+2. Service Discovery using Eureka Server
+3. API Gateway Configuration
+4. JWT Authentication Implementation
+5. Database Management with JPA/Hibernate
+6. REST API Development
+7. Inter-Service Communication
+8. Enterprise Application Architecture
+
+Developed as a full-stack backend microservices project to demonstrate scalable wedding planning, vendor management, booking workflows, and secure distributed system design.
